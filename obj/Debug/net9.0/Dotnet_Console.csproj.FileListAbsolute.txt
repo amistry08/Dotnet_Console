@@ -1,0 +1,17 @@
+D:\Projects\Dotnet_Console\bin\Debug\net9.0\Dotnet_Console.exe
+D:\Projects\Dotnet_Console\bin\Debug\net9.0\Dotnet_Console.deps.json
+D:\Projects\Dotnet_Console\bin\Debug\net9.0\Dotnet_Console.runtimeconfig.json
+D:\Projects\Dotnet_Console\bin\Debug\net9.0\Dotnet_Console.dll
+D:\Projects\Dotnet_Console\bin\Debug\net9.0\Dotnet_Console.pdb
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.AssemblyInfoInputs.cache
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.AssemblyInfo.cs
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.dll
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\refint\Dotnet_Console.dll
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.pdb
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.genruntimeconfig.cache
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\ref\Dotnet_Console.dll
+D:\Projects\Dotnet_Console\bin\Debug\net9.0\Pastel.dll
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.csproj.AssemblyReference.cache
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_C.82E7BC9B.Up2Date
