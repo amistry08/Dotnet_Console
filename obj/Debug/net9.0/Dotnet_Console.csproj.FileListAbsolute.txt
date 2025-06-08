@@ -15,3 +15,4 @@ D:\Projects\Dotnet_Console\obj\Debug\net9.0\ref\Dotnet_Console.dll
 D:\Projects\Dotnet_Console\bin\Debug\net9.0\Pastel.dll
 D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.csproj.AssemblyReference.cache
 D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_C.82E7BC9B.Up2Date
+D:\Projects\Dotnet_Console\obj\Debug\net9.0\Dotnet_Console.sourcelink.json
